@@ -1,4 +1,6 @@
-    <html lang="en">
+   ```HTML
+   
+   <html lang="en">
     <head>
         <title>Document
             
@@ -14,9 +16,12 @@
             </div>
         </body>
     </html>
+    ```
     
     
-    ```task 2
+    Task 2
+    
+    ```HTML
     <html lang="en">
     <head>
         <title>Document
