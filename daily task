@@ -37,3 +37,27 @@
             </div>
         </body>
     </html>
+   
+   
+   
+   
+   ```HTML- Task 3
+   <html lang="en">
+    <head>
+        <title>Contact Us Form </title>
+
+    </head>
+    <body>
+       <span style="font-weight:900;font-size:42px"><b>Contact Us Form</b></span>
+       <form action="",method="">
+           <lable for ="Name">Name* :</lable><input type="text "required placeholder="Enter name"><br>
+           <lable for ="mobnumber">MobileNumber* :</lable><input type ="number" required placeholder="Mob number"><br>
+           <lable for ="mail">Email Id* :</lable><input type ="text"required placeholder="Mail Id"><br>
+           <lable for = "comments">Comments* :</lable><textarea rows="10" cols="15"required></textarea>
+           <button type ="submit">Submit</button><br>
+           *inidicates required fill
+
+       </form>
+
+        </body>
+    </html>
